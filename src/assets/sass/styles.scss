@@ -1,0 +1,35 @@
+@import "../../../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+.boton {
+    transition: transform .3s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.boton:hover {
+    transform: scale(1.2);
+}
+
+.pokemons-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+}
+
+.card {
+    border-radius: 15px;
+    padding: 2rem;
+}
+
+.items-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    justify-items: center;
+}
+
+.location-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    justify-items: center;
+}
