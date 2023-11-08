@@ -1,6 +1,6 @@
 # <img style="padding-right:0.5rem" src='https://img.freepik.com/vector-premium/bandera-argentina-bandera-argentina-ilustracion-vectorial_685751-66.jpg' width="50px" >  <span style="font-size:3rem">ESPAÑOL:</span>
 ## <i align="center" style="font-size:2rem">🔮 APP DE POKEMON HECHA CON REACT QUERY</i>
-En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  **HTML,CSS,JavaScript,React,SASS** ,para el manejo de rutas **React Router**,para el manejo de estados asincronos **React Query** y para el manejo de estados **Redux**
+En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  **HTML,CSS,JavaScript,React,SASS** ,para el manejo de rutas **React Router**,para el manejo de estados asincronos **React Query** y para el manejo de estados **Redux**.
 
  _Este proyecto fue construido con el proposito de practicar Redux y React Query_
 
